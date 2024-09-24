@@ -1,0 +1,27 @@
+name: hotel_app
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/hotel-praia-dourada-servicios-1229cd84.jpg
+    - images/ice-351381-118355831-908971.jpg
+    - images/08-hotel-du-palais-biarritz.jpg
+    - images/1545743703_WxH.webp
+
